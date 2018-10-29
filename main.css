@@ -12,7 +12,7 @@
     .navbar ul li {
       height: 100%;
       display: inline;
-      margin: 0 0.5px; }
+      margin: 0 0.15px; }
     .navbar ul a {
       border: 1px solid black;
       border-radius: 5px;
@@ -22,7 +22,7 @@
       background-color: #E5525E;
       color: black;
       text-decoration: none;
-      padding: 5px; }
+      padding: 4px 5px 4px 5px; }
       .navbar ul a:hover {
         padding: 10px 5px;
         transition: ease-out 0.07s; }
@@ -36,7 +36,7 @@ ul {
       height: 100vh;
       width: 100vw; }
       ul li .container h1 {
-        text-shadow: 1px;
+        text-shadow: -3px 3px 0px #969696;
         position: absolute;
         border: 1px solid black;
         text-align: center;
